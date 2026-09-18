@@ -3,7 +3,7 @@
 > 成品图（1024×1024）归档在本目录 `final-icons-1024\`。
 > 每新增或返工一枚图标，**同步更新本清单**，再走「新增/更新流程」进包。
 
-## 成品清单（50）
+## 成品清单（51）
 
 > 第三批起（2026-09-18）按 `TODO.md` 队列推进，一张一审。
 
@@ -59,6 +59,7 @@
 | 48 | github.png | GitHub | com.github.android | 2026-09-18 定稿 · 敲代码场景，octocat 机盖徽（用户否决奶蛙剪影徽方案） |
 | 49 | samsung_internet.png | 系统浏览器 | com.sec.android.app.samsunginternet | 2026-09-18 定稿 · 网上冲浪场景 |
 | 50 | baidu.png | 百度 | com.baidu.searchbox | 2026-09-18 定稿 · 放大镜搜索场景 |
+| 51 | tieba.png | 百度贴吧 | com.baidu.tieba | 2026-09-18 定稿 · 飞扑贴卡场景 |
 
 ## 风格规范（新图标必须遵守，2026-09-18 由 44 枚定稿归纳）
 
