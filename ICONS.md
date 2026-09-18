@@ -3,7 +3,7 @@
 > 成品图（1024×1024）归档在本目录 `final-icons-1024\`。
 > 每新增或返工一枚图标，**同步更新本清单**，再走「新增/更新流程」进包。
 
-## 成品清单（51）
+## 成品清单（56）
 
 > 第三批起（2026-09-18）按 `TODO.md` 队列推进，一张一审。
 
@@ -60,6 +60,11 @@
 | 49 | samsung_internet.png | 系统浏览器 | com.sec.android.app.samsunginternet | 2026-09-18 定稿 · 网上冲浪场景 |
 | 50 | baidu.png | 百度 | com.baidu.searchbox | 2026-09-18 定稿 · 放大镜搜索场景 |
 | 51 | tieba.png | 百度贴吧 | com.baidu.tieba | 2026-09-18 定稿 · 飞扑贴卡场景 |
+| 52 | contacts.png | 电话本 | com.samsung.android.app.contacts | 2026-09-18 定稿 · 翻通讯录场景 |
+| 53 | messages.png | 信息 | com.samsung.android.messaging | 2026-09-18 定稿 · 气泡泡澡场景 |
+| 54 | deepseek.png | DeepSeek | com.deepseek.chat | 2026-09-18 定稿 · 抱鲸鱼宠物场景 |
+| 55 | chatgpt.png | ChatGPT | com.openai.chatgpt | 2026-09-18 定稿 · 指尖转结花场景 |
+| 56 | signal.png | Signal | org.thoughtcrime.securesms | 2026-09-18 定稿 · 举锁扣气泡场景 |
 
 ## 风格规范（新图标必须遵守，2026-09-18 由 44 枚定稿归纳）
 
