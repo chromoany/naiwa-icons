@@ -3,7 +3,7 @@
 > 本仓库收录「奶蛙」风格安卓图标套的成品图（`final-icons-1024/`，1024×1024 PNG）与设计规范，供预览与取用。
 > 图标包工程与构建管线不在本仓库范围内。
 
-## 成品清单（59）
+## 成品清单（67）
 
 | # | 文件名 | 应用 | 包名 | 构图备注 |
 |---|---|---|---|---|
@@ -66,6 +66,14 @@
 | 57 | doubao.png | 豆包 | com.larus.nova | 与豆包 IP 女孩相拥场景 |
 | 58 | aliyundrive.png | 阿里云盘 | com.alicloud.databox | 照片塞漩涡云上传场景 |
 | 59 | baicizhan.png | 百词斩 | com.jiongji.andriod.card | 挂抱「100」官方标 + 橙红斜杠 + 背景词纹（包名 andriod 为官方拼写） |
+| 60 | arknights.png | 明日方舟 | com.hypergryph.arknights | 举源石 + 与 Q 版阿米娅相拥（官方现版图标即阿米娅特写，青蓝底取自官方配色） |
+| 61 | endfield.png | 明日方舟：终末地 | com.hypergryph.endfield | 与 Q 版佩丽卡脸颊贴脸相拥（官方现版图标即佩丽卡特写，黄底 + 低对比工业线纹理） |
+| 62 | wzry.png | 王者荣耀 | com.tencent.tmgp.sgame | 跃起双手高举金色峡谷水晶 + 头顶歪戴金冠（深蓝紫底取自官方配色） |
+| 63 | dongchedi.png | 懂车帝 | com.ss.android.auto | 驾驶场景（坐 Q 版小车里握方向盘狂笑，车身橙黄 + 黑轮胎呼应官方黑车标黄底） |
+| 64 | software_store.png | 软件商店（通用） | com.heytap.market / com.xiaomi.market / com.huawei.appmarket | 双手环抱印绿色下载箭头的白色购物袋 + 袋口彩色小 App 方块（通用图标，一名映射三家商店） |
+| 65 | zuoyebang.png | 作业帮 | com.baidu.homework | 高举 100 分成绩单卡片欢呼场景（黄头条便签本纸张，与百词斩的裸「100」区分） |
+| 66 | douyin_mall.png | 抖音商城 | com.ss.android.ugc.livelite | 怀抱红粉购物袋（保留官方袋子大眼睛 + 白色音符从袋口探出，黑底取自官方配色；包名前身火山极速版） |
+| 67 | xuexitong.png | 学习通 | com.chaoxing.mobile | 跳跃欢呼 + 官方「三弧流星带 + 白五角星」从身后扫出（红橙渐变底 #D51022→#F1492A 取自官方图标） |
 
 ## 设计规范
 
@@ -91,7 +99,7 @@
 2. 品牌元素同样 3D 化（立体厚度 + 柔和光影），与奶蛙质感一致。
 3. 风格基准图：保证同一系列观感，以既有成品（`tim.png`、`wechat.png`、`bilibili.png` 等）为参照。
 
-### D. 文件格式（已统一，59/59 一致）
+### D. 文件格式（已统一，67/67 一致）
 
 - PNG、1024×1024、RGB（无 Alpha 通道）；命名 `^[a-z][a-z0-9_]*$`。
 
