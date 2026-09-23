@@ -1,8 +1,17 @@
-# naiwa-icons · 奶蛙图标
+﻿# naiwa-icons · 奶蛙图标素材库
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E5%9B%BE%E6%A0%87-67%20%E6%9E%9A-1AA35C?style=for-the-badge" alt="67 枚图标">
+  <img src="https://img.shields.io/badge/%E5%B0%BA%E5%AF%B8-1024%C3%971024%20PNG-blue?style=for-the-badge" alt="1024×1024 PNG">
+  <a href="https://github.com/chromoany/naiwa-icons-app/releases/latest"><img src="https://img.shields.io/github/v/release/chromoany/naiwa-icons-app?label=App&style=for-the-badge&color=2ea44f" alt="App 最新版"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge" alt="许可证"></a>
+</p>
 
 自制「奶蛙」风格安卓图标套的素材归档：每枚图标 = 品牌色圆角方背板 + 3D 黏土质感奶蛙与 App 核心元素互动。
 
-> **想直接把图标装到手机上用？** → 发布仓库 [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app)：下载 APK，安装步骤与各品牌手机（小米 / OPPO 一加 / vivo / 华为 / 荣耀 / 三星）怎么换图标都写在那边。
+> **English** · 67 hand-drawn Android app icons (1024×1024 PNG, RGB) in a soft 3D clay style, with the full design spec and reusable prompt template. Licensed CC BY-NC-SA 4.0. Want them on your phone? Grab the app: [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app).
+
+> **想装到手机上用？** → [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app)：下载 APK，附各品牌手机换图标步骤。
 
 ## 内容
 
@@ -123,3 +132,13 @@
 | 命名 | `^[a-z][a-z0-9_]*$` |
 
 完整硬约束（形象比例、四肢配色、构图叙事等）见 [ICONS.md](ICONS.md)。
+
+## 许可证
+
+本仓库的图标美术作品与文档采用 [CC BY-NC-SA 4.0](LICENSE)（署名 — 非商业性使用 — 相同方式共享 4.0 国际）。
+
+可以自由使用、修改、分享给朋友；**需要署名、禁止商用、衍生作品需使用同一协议**。想拿去做付费产品或上架商店，请先联系作者。
+
+## 相关仓库
+
+- [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app) —— 图标包 App 的发布仓库：下载 APK、安装说明、各品牌手机怎么换图标
