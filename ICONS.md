@@ -3,7 +3,7 @@
 > 本仓库收录「奶蛙」风格安卓图标套的成品图（`final-icons-1024/`，1024×1024 PNG）与设计规范，供预览与取用。
 > 图标包工程与构建管线不在本仓库范围内。
 
-## 成品清单（68）
+## 成品清单（71）
 
 | # | 文件名 | 应用 | 包名 | 构图备注 |
 |---|---|---|---|---|
@@ -75,6 +75,9 @@
 | 66 | douyin_mall.png | 抖音商城 | com.ss.android.ugc.livelite | 怀抱红粉购物袋（保留官方袋子大眼睛 + 白色音符从袋口探出，黑底取自官方配色；包名前身火山极速版） |
 | 67 | xuexitong.png | 学习通 | com.chaoxing.mobile | 跳跃欢呼 + 官方「三弧流星带 + 白五角星」从身后扫出（红橙渐变底 #D51022→#F1492A 取自官方图标） |
 | 68 | xianyu.png | 闲鱼 | com.taobao.idlefish | 环抱官方 IP 小黄鱼玩偶（鱼肚白区印黑手写「闲鱼」，亮黄底取自官方配色） |
+| 69 | whatsapp.png | WhatsApp | com.whatsapp | 后仰环抱巨大白色 3D 对话气泡（正面嵌绿色电话话筒、左下带尾巴）+ 漂浮小气泡，官方绿底 #25D366 |
+| 70 | clashroyale.png | 部落冲突：皇室战争 | com.supercell.clashroyale / com.tencent.tmgp.supercell.clashroyale | 双手环抱金皇冠（底圈镶红蓝宝石），背景复刻官方现版「双王对峙」版式（蓝红对半 + 中央白色闪电） |
+| 71 | clashofclans.png | 部落冲突 | com.supercell.clashofclans / com.tencent.tmgp.supercell.clashofclans | cos 蛮王：金发假发 + 大八字胡框住狂笑、双手叉腰挺肚，品红到深紫的径向渐变底照官方「蛮王怒吼特写」图标 |
 
 ## 设计规范
 
@@ -100,7 +103,7 @@
 2. 品牌元素同样 3D 化（立体厚度 + 柔和光影），与奶蛙质感一致。
 3. 风格基准图：保证同一系列观感，以既有成品（`tim.png`、`wechat.png`、`bilibili.png` 等）为参照。
 
-### D. 文件格式（已统一，68/68 一致）
+### D. 文件格式（已统一，71/71 一致）
 
 - PNG、1024×1024、RGB（无 Alpha 通道）；命名 `^[a-z][a-z0-9_]*$`。
 
