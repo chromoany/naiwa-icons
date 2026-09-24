@@ -7,21 +7,21 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge" alt="许可证"></a>
 </p>
 
-自制「奶蛙」风格安卓图标套的素材归档：每枚图标 = 品牌色圆角方背板 + 3D 黏土质感奶蛙与 App 核心元素互动。
+自己设计的「奶蛙」风格安卓图标，成品图归档在这里。每枚图标都是品牌色圆角方背板，加一只 3D 黏土质感的奶蛙，在和这个 App 的核心元素互动。
 
-> **English** · 67 custom-designed Android app icons (1024×1024 PNG, RGB) in a soft 3D clay style, with the full design spec and reusable prompt template. Licensed CC BY-NC-SA 4.0. Want them on your phone? Grab the app: [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app).
+> English · 67 custom-designed Android app icons (1024×1024 PNG, RGB) in a soft 3D clay style, with the full design spec and reusable prompt template. Licensed CC BY-NC-SA 4.0. Want them on your phone? Grab the app: [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app).
 
-> **想装到手机上用？** → [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app)：下载 APK，附各品牌手机换图标步骤。
+> 想在手机上用：去 [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app) 下载 APK，那边写了各品牌手机怎么换图标。
 
 ## 内容
 
-- `final-icons-1024/` —— 已定稿成品图（PNG，1024×1024，RGB）
-- `refs/` —— 奶蛙官方形象参考图（生成时的基准图，见 [ICONS.md](ICONS.md) 贡献指南）
-- `ICONS.md` —— **图标清单与设计规范**：风格硬约束、可复制的提示词模板、返工决策与贡献新图标的完整流程
+- `final-icons-1024/`：已定稿的成品图，PNG，1024×1024，RGB
+- `refs/`：奶蛙官方形象参考图，出图时的基准图，说明见 [ICONS.md](ICONS.md) 的贡献部分
+- `ICONS.md`：图标清单与设计规范，含风格硬约束、可复制的提示词模板、返工决策和贡献新图标的完整流程
 
 ## 已完成图标（67 枚）
 
-按**应用名首字母**排序（中文名按拼音、英文名按字母本身）。每格上图为 1024×1024 成品（此处缩略至 96×96），下为应用名与资源名。完整规范与贡献指南见 [ICONS.md](ICONS.md)。
+按应用名首字母排序，中文名按拼音，英文名按字母本身。每格上面是 1024×1024 成品的缩略图（显示成 96×96），下面是应用名和资源名。完整规范与贡献指南见 [ICONS.md](ICONS.md)。
 
 <table>
   <tr>
@@ -135,10 +135,10 @@
 
 ## 许可证
 
-本仓库的图标美术作品与文档采用 [CC BY-NC-SA 4.0](LICENSE)（署名 — 非商业性使用 — 相同方式共享 4.0 国际）。
+本仓库的图标美术作品与文档采用 [CC BY-NC-SA 4.0](LICENSE)（署名、非商业性使用、相同方式共享 4.0 国际）。
 
-可以自由使用、修改、分享给朋友；**需要署名、禁止商用、衍生作品需使用同一协议**。想拿去做付费产品或上架商店，请先联系作者。
+可以自由使用、修改、分享给朋友，但要署名、不能商用，衍生作品得用同一协议。想拿去做付费产品或上架商店，请先联系作者。
 
 ## 相关仓库
 
-- [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app) —— 图标包 App 的发布仓库：下载 APK、安装说明、各品牌手机怎么换图标
+- [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app)：图标包 App 的发布仓库，下载 APK、安装说明、各品牌手机怎么换图标
