@@ -1,4 +1,4 @@
-﻿# naiwa-icons · 奶蛙图标素材库
+# naiwa-icons · 奶蛙图标素材库
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E5%9B%BE%E6%A0%87-67%20%E6%9E%9A-1AA35C?style=for-the-badge" alt="67 枚图标">
@@ -9,7 +9,7 @@
 
 自制「奶蛙」风格安卓图标套的素材归档：每枚图标 = 品牌色圆角方背板 + 3D 黏土质感奶蛙与 App 核心元素互动。
 
-> **English** · 67 hand-drawn Android app icons (1024×1024 PNG, RGB) in a soft 3D clay style, with the full design spec and reusable prompt template. Licensed CC BY-NC-SA 4.0. Want them on your phone? Grab the app: [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app).
+> **English** · 67 custom-designed Android app icons (1024×1024 PNG, RGB) in a soft 3D clay style, with the full design spec and reusable prompt template. Licensed CC BY-NC-SA 4.0. Want them on your phone? Grab the app: [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app).
 
 > **想装到手机上用？** → [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app)：下载 APK，附各品牌手机换图标步骤。
 
@@ -27,8 +27,8 @@
   <tr>
     <td align="center"><img src="final-icons-1024/iqiyi.png" width="96" alt="爱奇艺"><br><sub><b>爱奇艺</b></sub><br><sub><code>iqiyi</code></sub></td>
     <td align="center"><img src="final-icons-1024/aliyundrive.png" width="96" alt="阿里云盘"><br><sub><b>阿里云盘</b></sub><br><sub><code>aliyundrive</code></sub></td>
-    <td align="center"><img src="final-icons-1024/baidu.png" width="96" alt="百度"><br><sub><b>百度</b></sub><br><sub><code>baidu</code></sub></td>
     <td align="center"><img src="final-icons-1024/baicizhan.png" width="96" alt="百词斩"><br><sub><b>百词斩</b></sub><br><sub><code>baicizhan</code></sub></td>
+    <td align="center"><img src="final-icons-1024/baidu.png" width="96" alt="百度"><br><sub><b>百度</b></sub><br><sub><code>baidu</code></sub></td>
     <td align="center"><img src="final-icons-1024/baidu_map.png" width="96" alt="百度地图"><br><sub><b>百度地图</b></sub><br><sub><code>baidu_map</code></sub></td>
     <td align="center"><img src="final-icons-1024/tieba.png" width="96" alt="百度贴吧"><br><sub><b>百度贴吧</b></sub><br><sub><code>tieba</code></sub></td>
   </tr>
