@@ -7,21 +7,21 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge" alt="许可证"></a>
 </p>
 
-自己设计的「奶蛙」风格安卓图标，成品图归档在这里。每枚都是品牌色圆角方背板，同一只 3D 黏土奶蛙，跟这个 App 的核心元素互动。
+自己设计的奶蛙风格安卓图标，成品图都归档在这里。每枚都是品牌色圆角底，一只奶蛙抱着对应 App 的元素。
 
-> English · 67 custom-designed Android app icons (1024×1024 PNG, RGB) in a soft 3D clay style, with the full design spec and reusable prompt template. Licensed CC BY-NC-SA 4.0. Want them on your phone? Grab the app: [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app).
+> English · 67 custom-designed Android app icons (1024×1024 PNG, RGB) in a soft clay style, with the full design spec and prompt template. Licensed CC BY-NC-SA 4.0. Want them on your phone? Grab the app: [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app).
 
 > 想在手机上用：去 [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app) 下载 APK，那边写了各品牌手机怎么换图标。
 
 ## 内容
 
-- `final-icons-1024/`：已定稿的成品图，PNG，1024×1024，RGB
-- `refs/`：奶蛙官方形象参考图，出图时的基准图，说明见 [ICONS.md](ICONS.md) 的贡献部分
-- `ICONS.md`：图标清单与设计规范，含风格硬约束、可复制的提示词模板、返工决策和贡献新图标的完整流程
+- `final-icons-1024/`：定稿成品图，1024×1024 PNG
+- `refs/`：出图用的奶蛙参考图
+- `ICONS.md`：图标清单和设计规范
 
 ## 已完成图标（67 枚）
 
-按应用名首字母排序，中文名按拼音，英文名按字母本身。每格上面是 1024×1024 成品的缩略图（显示成 96×96），下面是应用名和资源名。完整规范与贡献指南见 [ICONS.md](ICONS.md)。
+按应用名首字母排序，中文名按拼音，英文名按字母本身。每格上面是缩略图，下面是应用名和资源名。
 
 <table>
   <tr>
@@ -122,16 +122,9 @@
   </tr>
 </table>
 
-## 设计规范速览
+## 设计规范
 
-| 项目 | 数值 |
-|---|---|
-| 成品图 | 1024×1024 PNG（RGB，无 Alpha） |
-| 画面 | App 品牌主色圆角方背板，奶蛙居中占 60–75%，App 元素 3D 化占 25–40% |
-| 渲染 | 3D 黏土/软陶质感，柔光棚拍光，禁 2D 扁平 |
-| 命名 | `^[a-z][a-z0-9_]*$` |
-
-完整硬约束（形象比例、四肢配色、构图叙事等）见 [ICONS.md](ICONS.md)。
+成品图是 1024×1024 PNG（RGB，无 Alpha）。完整规范见 [ICONS.md](ICONS.md)。
 
 ## 许可证
 
