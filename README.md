@@ -1,7 +1,7 @@
 # naiwa-icons · 奶蛙图标素材库
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E5%9B%BE%E6%A0%87-67%20%E6%9E%9A-1AA35C?style=for-the-badge" alt="67 枚图标">
+  <img src="https://img.shields.io/badge/%E5%9B%BE%E6%A0%87-68%20%E6%9E%9A-1AA35C?style=for-the-badge" alt="68 枚图标">
   <img src="https://img.shields.io/badge/%E5%B0%BA%E5%AF%B8-1024%C3%971024%20PNG-blue?style=for-the-badge" alt="1024×1024 PNG">
   <a href="https://github.com/chromoany/naiwa-icons-app/releases/latest"><img src="https://img.shields.io/github/v/release/chromoany/naiwa-icons-app?label=App&style=for-the-badge&color=2ea44f" alt="App 最新版"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge" alt="许可证"></a>
@@ -9,7 +9,7 @@
 
 自己设计的奶蛙风格安卓图标，成品图都归档在这里。每枚都是品牌色圆角底，一只奶蛙抱着对应 App 的元素。
 
-> English · 67 custom-designed Android app icons (1024×1024 PNG, RGB) in a soft clay style, with the full design spec and prompt template. Licensed CC BY-NC-SA 4.0. Want them on your phone? Grab the app: [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app).
+> English · 68 custom-designed Android app icons (1024×1024 PNG, RGB) in a soft clay style, with the full design spec and prompt template. Licensed CC BY-NC-SA 4.0. Want them on your phone? Grab the app: [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app).
 
 > 想在手机上用：去 [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app) 下载 APK，那边写了各品牌手机怎么换图标。
 
@@ -19,7 +19,7 @@
 - `refs/`：出图用的奶蛙参考图
 - `ICONS.md`：图标清单和设计规范
 
-## 已完成图标（67 枚）
+## 已完成图标（68 枚）
 
 按应用名首字母排序，中文名按拼音，英文名按字母本身。每格上面是缩略图，下面是应用名和资源名。
 
@@ -99,22 +99,22 @@
   <tr>
     <td align="center"><img src="final-icons-1024/camera.png" width="96" alt="相机"><br><sub><b>相机</b></sub><br><sub><code>camera</code></sub></td>
     <td align="center"><img src="final-icons-1024/xiaohongshu.png" width="96" alt="小红书"><br><sub><b>小红书</b></sub><br><sub><code>xiaohongshu</code></sub></td>
+    <td align="center"><img src="final-icons-1024/xianyu.png" width="96" alt="闲鱼"><br><sub><b>闲鱼</b></sub><br><sub><code>xianyu</code></sub></td>
     <td align="center"><img src="final-icons-1024/ctrip.png" width="96" alt="携程"><br><sub><b>携程</b></sub><br><sub><code>ctrip</code></sub></td>
     <td align="center"><img src="final-icons-1024/messages.png" width="96" alt="信息"><br><sub><b>信息</b></sub><br><sub><code>messages</code></sub></td>
     <td align="center"><img src="final-icons-1024/samsung_internet.png" width="96" alt="系统浏览器"><br><sub><b>系统浏览器</b></sub><br><sub><code>samsung_internet</code></sub></td>
-    <td align="center"><img src="final-icons-1024/xuexitong.png" width="96" alt="学习通"><br><sub><b>学习通</b></sub><br><sub><code>xuexitong</code></sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="final-icons-1024/xuexitong.png" width="96" alt="学习通"><br><sub><b>学习通</b></sub><br><sub><code>xuexitong</code></sub></td>
     <td align="center"><img src="final-icons-1024/galaxy_store.png" width="96" alt="应用商店"><br><sub><b>应用商店</b></sub><br><sub><code>galaxy_store</code></sub></td>
     <td align="center"><img src="final-icons-1024/email.png" width="96" alt="邮件"><br><sub><b>邮件</b></sub><br><sub><code>email</code></sub></td>
     <td align="center"><img src="final-icons-1024/youku.png" width="96" alt="优酷"><br><sub><b>优酷</b></sub><br><sub><code>youku</code></sub></td>
     <td align="center"><img src="final-icons-1024/alipay.png" width="96" alt="支付宝"><br><sub><b>支付宝</b></sub><br><sub><code>alipay</code></sub></td>
     <td align="center"><img src="final-icons-1024/zhihu.png" width="96" alt="知乎"><br><sub><b>知乎</b></sub><br><sub><code>zhihu</code></sub></td>
-    <td align="center"><img src="final-icons-1024/compass.png" width="96" alt="指南针"><br><sub><b>指南针</b></sub><br><sub><code>compass</code></sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="final-icons-1024/compass.png" width="96" alt="指南针"><br><sub><b>指南针</b></sub><br><sub><code>compass</code></sub></td>
     <td align="center"><img src="final-icons-1024/zuoyebang.png" width="96" alt="作业帮"><br><sub><b>作业帮</b></sub><br><sub><code>zuoyebang</code></sub></td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
