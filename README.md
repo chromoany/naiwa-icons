@@ -7,7 +7,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge" alt="许可证"></a>
 </p>
 
-自己设计的「奶蛙」风格安卓图标，成品图归档在这里。每枚图标都是品牌色圆角方背板，加一只 3D 黏土质感的奶蛙，在和这个 App 的核心元素互动。
+自己设计的「奶蛙」风格安卓图标，成品图归档在这里。每枚都是品牌色圆角方背板，同一只 3D 黏土奶蛙，跟这个 App 的核心元素互动。
 
 > English · 67 custom-designed Android app icons (1024×1024 PNG, RGB) in a soft 3D clay style, with the full design spec and reusable prompt template. Licensed CC BY-NC-SA 4.0. Want them on your phone? Grab the app: [chromoany/naiwa-icons-app](https://github.com/chromoany/naiwa-icons-app).
 
