@@ -54,7 +54,7 @@
 | 45 | feishu.png | 飞书 | com.ss.android.lark | |
 | 46 | phone.png | 电话/拨号 | com.sec.android.app.dialer | 首枚「功能故事」构图 |
 | 47 | migu_video.png | 咪咕视频 | com.cmcc.cmvideo | 功能故事构图 |
-| 48 | github.png | GitHub | com.github.android | 敲代码场景，octocat 机盖徽 |
+| 48 | github.png | GitHub | com.github.android | 官方版式白剪影：中性炭黑底 #2B2D30 |
 | 49 | samsung_internet.png | 系统浏览器 | com.sec.android.app.samsunginternet | 网上冲浪场景 |
 | 50 | baidu.png | 百度 | com.baidu.searchbox | 放大镜搜索场景 |
 | 51 | tieba.png | 百度贴吧 | com.baidu.tieba | 飞扑贴卡场景 |
